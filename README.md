@@ -2,6 +2,12 @@
   <samp>Hello world.</samp>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/arkon/">
+    <samp>Sponsor me?</samp>
+  </a>
+</p>
+
 ---
 
 <p align="center">
